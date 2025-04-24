@@ -35,7 +35,7 @@ This project provides a sleek user interface for job seekers to track their appl
 git clone https://github.com/JunaidRathore/techsea
 
 # Navigate to the project directory
-cd job-application-dashboard
+cd techsea
 
 # Install dependencies
 npm install
